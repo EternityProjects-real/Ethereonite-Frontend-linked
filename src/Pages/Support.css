@@ -1,0 +1,14 @@
+.support{
+    text-align: center;
+    padding-top: 15rem;
+}
+
+.support-title{
+    color: #81A8F8;
+    font-size: 600%;
+    font-weight: bold;
+}
+.support-body{
+    color: #f3f3f3;
+    font-size: 200%;
+}

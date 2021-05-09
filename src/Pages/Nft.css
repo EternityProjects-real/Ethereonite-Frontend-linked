@@ -1,0 +1,18 @@
+
+@media only screen and (min-width: 600px) {
+	.main-nft{
+        padding-left: 250px;
+	}
+  }
+.title-nft-carousel{
+    padding: 1rem;
+    background: linear-gradient(222.46deg, #A4A5FF 32.21%, #92DEF0 67.68%);
+    border-radius: 20px;
+    font-size: 200%;
+    padding: 1rem;
+    width: 15rem;
+    text-align: center;
+    font-weight: bold;
+    margin: 30px;
+    margin-left: 40px;
+}

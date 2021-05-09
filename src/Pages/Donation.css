@@ -1,0 +1,46 @@
+@media only screen and (min-width: 600px) {
+    .dashboard-padding-left{
+        padding-left: 30rem;
+    }
+  }
+
+.container-donation{
+    width: 800px;
+    padding: 3%;
+    background: #272627;
+    text-align: center;
+    border-radius: 20px;
+    margin:30px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.title-donation{
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 300%;
+    color: #A4A5FF;
+    padding: 3rem;
+}
+.content-donation{
+    color: #f1f1f1;
+    padding: 1%;
+    text-align: justify;
+    font-size: 120%;
+}
+.button-donation{
+    background: linear-gradient(222.46deg, #A4A5FF 32.21%, #92DEF0 67.68%);
+    padding: 3%;
+    font-weight: bold;
+    font-size: 150%;
+    color: #121212;
+    border-radius: 20px;
+    margin-top: 3rem;
+}
+.container-donation:hover{
+    transform: scale(1.01);
+    box-shadow: 4px 4px 4px #CFC5FB;
+}
+.button-donation:hover{
+    transform: scale(1.05);
+   
+}
